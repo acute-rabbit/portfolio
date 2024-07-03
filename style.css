@@ -10,6 +10,8 @@
   grid-template-columns: 140px 1fr;
   grid-template-rows: 90px 1fr 180px  ;
   background-image: url("Fundo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1, h2 {
